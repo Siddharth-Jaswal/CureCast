@@ -40,6 +40,7 @@ SEVERITY_OVERRIDES = {
     "asthma": "Moderate",
     "arthritis": "Moderate",
     "depression": "Moderate",
+    "heart failure": "Severe",
 }
 
 SPECIALIST_KEYWORDS = {
