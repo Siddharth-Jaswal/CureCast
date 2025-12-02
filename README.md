@@ -1,5 +1,6 @@
 # CureCast
 
+
 Modern template for documenting a codebase and onboarding contributors. Replace placeholders with project specifics as you iterate.
 
 ## Overview
